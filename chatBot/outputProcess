@@ -8,3 +8,65 @@
 [nltk_data]   Package wordnet is already up-to-date!
 [nltk_data] Downloading package omw-1.4 to /root/nltk_data...
 [nltk_data]   Package omw-1.4 is already up-to-date!
+
+
+
+output:
+
+=======================================================
+      NLP Commodity Price Chatbot
+=======================================================
+You can ask commodity prices.
+Available commodities:
+Onion, Potato, Tur, Moong
+
+Type 'bye' to exit.
+
+You : hi
+Bot : Hi there! 
+
+You : hello
+Bot : Hello! 
+
+You : what is the price of onion
+Bot : Price of Onion is ₹3200 per quintal.
+
+You : potato price
+Bot : Price of Potato is ₹1800 per quintal.
+
+You : cost of tur
+Bot : Price of Tur is ₹7200 per quintal.
+
+You : rate of moong
+Bot : Price of Moong is ₹8500 per quintal.
+
+You : price
+Bot : Please specify the commodity.
+      Onion | Potato | Tur | Moong
+
+You : what is the cost
+Bot : Please specify the commodity.
+      Onion | Potato | Tur | Moong
+
+You : potato
+Bot : Price of Potato is ₹1800 per quintal.
+
+You : thanks
+Bot : Happy to help! 
+
+You : thank you
+Bot : You're welcome! 
+
+You : what is tomato price
+Bot : Please specify the commodity.
+      Onion | Potato | Tur | Moong
+
+You : how are you
+Bot : Please specify the commodity.
+      Onion | Potato | Tur | Moong
+
+You : thanks
+Bot : My pleasure! 
+
+You : bye
+Bot : See you later!
